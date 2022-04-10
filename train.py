@@ -5,6 +5,7 @@ from blog.keras.io.
 In our example we will be using data that can be downloaded at:
 https://www.kaggle.com/tongpython/cat-and-dog
 
+
 In our setup, it expects:
 - a data/ folder
 - train/ and validation/ subfolders inside data/
